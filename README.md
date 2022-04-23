@@ -1,1 +1,1 @@
-# choco-s-skins
+# choco-skins
